@@ -1,6 +1,7 @@
 
 
-![Header](https://github.com/GagandeepSingh101/GagandeepSingh101/assets/136240438/30233174-1301-4d92-9b07-fc08b8273d72)
+![Header](https://github.com/gagandeepsingh101/gagandeepsingh101/assets/145465280/da887071-4e13-4966-80e4-a141587c0c9d)
+
 <h1 align="center">Hi 👋, I'm Gagandeep Singh</h1>
 <h3 align="center">A passionate MERN Stack Web Development from India</h3>
 
