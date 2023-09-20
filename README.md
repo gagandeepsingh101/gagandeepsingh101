@@ -1,27 +1,28 @@
 
 
-![Header](https://github.com/gagandeepsingh101/gagandeepsingh101/assets/145465280/da887071-4e13-4966-80e4-a141587c0c9d)
 
 <h1 align="center">Hi 👋, I'm Gagandeep Singh</h1>
-<h3 align="center">A passionate MERN Stack Web Development from India</h3>
+<h3 align="center">A passionate FrontEnd from India</h3>
 
+# 💫 About Me:
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning **MERN Stack Web Development from almabetter**
 - 📫 How to reach me **gagandeepsingh128548@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gagandeep-singh-a2a639247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gagandeep-singh-a2a639247" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gagandeepsingh128548" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gagandeepsingh128548" height="30" width="40" /></a>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gagandeep-singh-a2a639247/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/22597555/gagandeep-singh) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/gagandeepsingh101) 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+# 💻 Tech Stack:
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=gagandeepsingh101&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gagandeepsingh101&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gagandeepsingh101&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gagandeepsingh101&show_icons=true&locale=en&layout=compact" alt="gagandeepsingh101" /></p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+---
+[![](https://visitcount.itsvg.in/api?id=gagandeepsingh101&icon=2&color=6)](https://visitcount.itsvg.in)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gagandeepsingh101&show_icons=true&locale=en" alt="gagandeepsingh101" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gagandeepsingh101&" alt="gagandeepsingh101" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
