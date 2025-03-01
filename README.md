@@ -38,6 +38,32 @@ Welcome to my GitHub profile! I'm Gagandeep, a dedicated developer with a strong
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center" ><a href="https://github.com/gagandeepsingh101/entertainment-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gagandeepsingh101&repo=entertainment-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/gagandeepsingh101/Blog-App" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gagandeepsingh101&repo=Blog-App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+<a href="https://github.com/gagandeepsingh101/entertainment-app" align="left">
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gagandeepsingh101&repo=entertainment-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+</a>
+<a href="https://github.com/gagandeepsingh101/Blog-App" align="right">
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gagandeepsingh101&repo=Blog-App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+</a>
+</div>
 
-<div width="100%" align="center"><a href="https://github.com/gagandeepsingh101/flashcard-generator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gagandeepsingh101&repo=flashcard-generator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/gagandeepsingh101/dish-dazzle-food-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gagandeepsingh101&repo=dish-dazzle-food-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<br /><br /><br /><br /><br /><br /><br />
+
+<div width="100%" align="center">
+<a href="https://github.com/gagandeepsingh101/flashcard-generator" align="left">
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gagandeepsingh101&repo=flashcard-generator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+</a>
+<a href="https://github.com/gagandeepsingh101/dish-dazzle-food-app" align="right">
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gagandeepsingh101&repo=dish-dazzle-food-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+</a>
+</div>
+
+<br /><br /><br /><br /><br /><br /><br />
+
+<div width="100%" align="center">
+<a href="https://github.com/gagandeepsingh101/quickkart" align="left">
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gagandeepsingh101&repo=quickkart&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+</a>
+</div>
+
+<br /><br /><br />
